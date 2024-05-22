@@ -35,7 +35,8 @@ package oop.msu;
          setSize(940, 540);
          setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
          setLocationRelativeTo(null); // Center relative to screen size
-         setIconImage(Toolkit.getDefaultToolkit().getImage("remindme\\src\\main\\resources\\assets\\ico.png"));
+         //When compiling into Jar, use getResource refer to https://stackoverflow.com/questions/56387179/java-swing-maven-how-to-load-imageicon-in-jar-file
+         setIconImage(new ImageIcon(getClass().getResource("/ico.png")).getImage());
  
          // Add Component Here
          itemTextField = new JTextField(20); //Adjust text fieldwidth
