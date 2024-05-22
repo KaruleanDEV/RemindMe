@@ -7,7 +7,7 @@
 
 
 
-## Simple To Do Application
+## Remind Me, A Simple To Do Application
 
 ![image](https://github.com/KaruleanDEV/todolistapp/assets/19364280/15c9c98d-fce6-436a-bba8-9e5ebdb0d7f5)
 
