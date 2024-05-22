@@ -24,7 +24,7 @@ The workspace contains two folders by default, where:
 - `lib`: the folder to maintain dependencies
 - `asset`: the folder to maintain resources
 
-## Doc
+## References & Documentation
 https://docs.oracle.com/javase/7/docs/api/javax/swing/package-summary.html for documentation. 
 
 ### Attribution
