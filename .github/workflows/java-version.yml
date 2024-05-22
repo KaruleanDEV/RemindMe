@@ -1,12 +1,10 @@
 name: Java Version Test
 
-on:
-  release:
-    types: [created]
+on: [push]
 
 jobs:
   build:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     strategy:
       matrix:
         java: [ '8', '11', '17', '21' ]
