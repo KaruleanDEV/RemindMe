@@ -1,7 +1,11 @@
 ![Static Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Static Badge](https://img.shields.io/github/license/KaruleanDEV/todolistapp.svg)
+![GitHub Release](https://img.shields.io/github/v/release/KaruleanDEV/RemindMe?include_prereleases&sort=date&display_name=release&style=for-the-badge&color=%238BF8A7)
+![Static Badge](https://img.shields.io/github/license/KaruleanDEV/todolistapp.svg?include_&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Maven-red?style=for-the-badge&label=Build%20Tool)
 [![Java CI with Maven](https://github.com/KaruleanDEV/RemindMe/actions/workflows/maven.yml/badge.svg)](https://github.com/KaruleanDEV/RemindMe/actions/workflows/maven.yml)
+
+
 
 ## Simple To Do Application
 
