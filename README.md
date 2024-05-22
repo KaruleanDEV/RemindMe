@@ -1,6 +1,16 @@
+![Static Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Static Badge](https://img.shields.io/github/license/KaruleanDEV/todolistapp.svg)
+
 ## Simple To Do Application
 
 ![image](https://github.com/KaruleanDEV/todolistapp/assets/19364280/15c9c98d-fce6-436a-bba8-9e5ebdb0d7f5)
+
+# Features
++ Add New Items
++ Note Taking
++ Remove Specific Item
++ Clear All Items
 
 # Author: Zack, Dashan, Ken 
  * A demo application showcasing GUI components using javax.swing library For Mr.Kevin.
