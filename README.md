@@ -20,9 +20,8 @@
 
 The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-- `asset`: the folder to maintain resources
+- `src/main/java/oop/msu`: the folder to maintain sources
+- `src/main/resources/assets`: the folder to maintain resources
 
 ## References & Documentation
 https://docs.oracle.com/javase/7/docs/api/javax/swing/package-summary.html for documentation. 
