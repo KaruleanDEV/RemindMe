@@ -13,7 +13,7 @@
 + Clear All Items
 
 # Author: Zack, Dashan, Ken 
- * A demo application showcasing GUI components using javax.swing library For Mr.Kevin.
+ * A demo application showcasing GUI components using javax.swing library
  * Java Version: openjdk version "17.0.11" 2024-04-16 Eclipse Adoptium
  
 ## Folder Structure
